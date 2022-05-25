@@ -35,6 +35,8 @@
 
 ## 💼 Skills
 
+<br>
+
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=c691e9)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=c691e9)
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=c691e9)
@@ -58,6 +60,8 @@
 <br>
 
 ## &#x1F4BB; Resume
+
+<br>
 
 <div align="center">
  <div style="display: flex;">
